@@ -1,0 +1,14 @@
+{
+  "name": "stitch-reformas-integrales-barcelona",
+  "version": "1.0.0",
+  "description": "Landing page de alta conversión para Reformas Integrales Barcelona (Grupo CNLPRO)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "node build-index.js"
+  },
+  "keywords": ["reformas", "barcelona", "landing", "construccion"],
+  "author": "Antigravity",
+  "license": "ISC"
+}
